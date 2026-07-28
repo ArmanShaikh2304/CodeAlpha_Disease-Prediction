@@ -17,27 +17,7 @@ The app trains a Logistic Regression model, saves it with Joblib, and loads it i
 - Reset button
 - Responsive HTML, CSS, and JavaScript frontend
 
-## Project Structure
 
-```text
-Disease-Prediction/
-|
-|-- app.py
-|-- train_model.py
-|-- model.pkl
-|-- requirements.txt
-|-- README.md
-|
-|-- templates/
-|   |-- index.html
-|
-|-- static/
-|   |-- style.css
-|   |-- script.js
-|
-|-- dataset/
-|   |-- optional
-```
 
 
 
