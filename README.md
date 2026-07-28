@@ -93,7 +93,7 @@ Disease Prediction
 
 ---
 
-# ⚙️ Technologies Used
+# ⚙️ Technologies Used. 
 
 | Category | Technologies |
 |-----------|--------------|
