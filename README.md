@@ -220,7 +220,7 @@ Passionate about
 - 🧠 Artificial Intelligence
 - 🌐 Full Stack Development
 - 📊 Data Science
-- 🚀 Open Source
+- 🚀 Open Source 
 
 ---
 
