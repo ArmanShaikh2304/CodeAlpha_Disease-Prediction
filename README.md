@@ -39,33 +39,8 @@ Disease-Prediction/
 |   |-- optional
 ```
 
-## Setup Instructions
 
-1. Install dependencies:
 
-```bash
-pip install -r requirements.txt
-```
-
-2. Train the model:
-
-```bash
-python train_model.py
-```
-
-3. Run the Flask app:
-
-```bash
-python app.py
-```
-
-If your system uses `python3`, run `python3 train_model.py` and `python3 app.py` instead.
-
-4. Open the app in your browser:
-
-```text
-http://127.0.0.1:5000
-```
 
 ## How It Works
 
@@ -85,6 +60,4 @@ The app displays one of these results:
 
 It also displays the model confidence as a percentage.
 
-## Notes
 
-This project is made for learning purposes and internship submission. It should not be used as a real medical diagnosis system.
