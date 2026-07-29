@@ -226,7 +226,7 @@ Passionate about
 
 <div align="center">
 
-## ⭐ If you found this project helpful, consider giving it a Star!   
+## ⭐ If you found this project helpful, consider giving it a Star!      
 
 ### Made with ❤️ using Python, Flask, Scikit-Learn & Machine Learning
 
