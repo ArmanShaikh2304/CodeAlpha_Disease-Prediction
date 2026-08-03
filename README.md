@@ -11,7 +11,7 @@
 
 *A modern Machine Learning web application that predicts whether a breast tumor is **Benign** or **Malignant** using a Logistic Regression model trained on the **Breast Cancer Wisconsin Dataset**.*
 
-</div>
+</div> 
 
 ---
 
