@@ -88,7 +88,7 @@ Save Model (Joblib)
 Flask Web Application
           │
           ▼
-Disease Prediction
+Disease Prediction   
 ```
 
 ---
