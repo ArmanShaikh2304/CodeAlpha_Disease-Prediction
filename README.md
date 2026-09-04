@@ -9,7 +9,7 @@
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![Joblib](https://img.shields.io/badge/Joblib-Model%20Persistence-blue?style=for-the-badge)]()
 
-*A modern Machine Learning web application that predicts whether a breast tumor is **Benign** or **Malignant** using a Logistic Regression model trained on the **Breast Cancer Wisconsin Dataset**.*
+*A modern Machine Learning web application that predicts whether a breast tumor is **Benign** or **Malignant** using a Logistic Regression model trained on the **Breast Cancer Wisconsin Dataset**.* 
 
 </div> 
 
