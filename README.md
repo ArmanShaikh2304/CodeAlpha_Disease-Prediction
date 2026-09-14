@@ -149,7 +149,7 @@ After submitting the medical information, the application displays:
 
 Possible outcomes include:
 
-- 🟢 **No Disease Detected**
+- 🟢 **No Disease Detected** 
 - 🔴 **Disease Detected**
 
 ---
