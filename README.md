@@ -38,7 +38,7 @@ This project is ideal for beginners who want to learn how to build, train, save,
 
 ---
 
-### 🌐 Web Application
+### 🌐 Web Application 
 
 - Flask Backend
 - Responsive User Interface
