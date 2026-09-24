@@ -44,7 +44,7 @@ This project is ideal for beginners who want to learn how to build, train, save,
 - Responsive User Interface
 - Instant Disease Prediction
 - Confidence Percentage
-- Model Accuracy Display
+- Model Accuracy Display 
 - Input Validation
 - Reset Button
 - Fast Prediction Response
