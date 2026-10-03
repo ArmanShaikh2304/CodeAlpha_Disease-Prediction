@@ -2,7 +2,7 @@
 
 # 🩺 Disease Prediction Web Application
 
-### AI-Powered Breast Cancer Detection using Machine Learning
+### AI-Powered Breast Cancer Detection using Machine Learning 
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-Web%20App-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
