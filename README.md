@@ -41,7 +41,7 @@ This project is ideal for beginners who want to learn how to build, train, save,
 ### 🌐 Web Application  
 
 - Flask Backend
-- Responsive User Interface
+- Responsive User Interface 
 - Instant Disease Prediction
 - Confidence Percentage 
 - Model Accuracy Display 
