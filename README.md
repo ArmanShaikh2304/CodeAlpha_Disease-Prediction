@@ -53,7 +53,7 @@ This project is ideal for beginners who want to learn how to build, train, save,
 
 ### 📊 User Experience
 
-- Clean Medical Dashboard
+- Clean Medical Dashboard 
 - Easy-to-Use Form
 - Real-Time Prediction
 - Mobile-Friendly Design
