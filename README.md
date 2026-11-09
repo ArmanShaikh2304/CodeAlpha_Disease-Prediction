@@ -115,7 +115,7 @@ The model is trained using the **Breast Cancer Wisconsin Diagnostic Dataset**, a
 
 | Prediction | Description |
 |------------|-------------|
-| 🟢 Benign | No Disease Detected |
+| 🟢 Benign | No Disease Detected | 
 | 🔴 Malignant | Disease Detected |
 
 The dataset contains diagnostic measurements extracted from digitized images of breast cell nuclei and is widely used as a benchmark dataset for binary classification problems.
