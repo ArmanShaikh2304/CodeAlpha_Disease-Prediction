@@ -134,7 +134,7 @@ The application displays the trained model's accuracy directly on the homepage.
 - ✅ F1 Score
 - ✅ Prediction Confidence
 
-The trained Logistic Regression model provides reliable predictions with excellent performance on the test dataset.
+The trained Logistic Regression model provides reliable predictions with excellent performance on the test dataset. 
 
 ---
 
